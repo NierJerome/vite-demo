@@ -1,11 +1,11 @@
 <script setup>
-import { ref } from 'vue'
+import { ref } from "vue";
 
 defineProps({
-  msg: String
-})
+  msg: String,
+});
 
-const count = ref(0)
+const count = ref(0);
 </script>
 
 <template>
@@ -15,7 +15,7 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
-      <code>components/HelloWorld.vue</code> to test HMR
+      <code>components/HelloWorld.vue</code> to test HMRI
     </p>
   </div>
 
