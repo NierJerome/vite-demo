@@ -1,4 +1,5 @@
 <script setup>
+import Button from "./Button.vue";
 import { ref } from "vue";
 
 defineProps({
@@ -12,6 +13,7 @@ const count = ref(0);
   <h1>{{ msg }}</h1>
 
   <div class="card">
+    <Button message="sss" />
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
