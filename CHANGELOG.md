@@ -3,7 +3,7 @@
 
 ### ✨ Features | 新功能
 
-* 增加button组件 ([67843af](https://github.com/NierJerome/vite-demo/commit/67843af))
+* 测试测试，增加了changelog ([a381a90](https://github.com/NierJerome/vite-demo/commit/a381a90))
 
 
 ### 🐛 Bug Fixes | Bug 修复

@@ -17,5 +17,7 @@ defineProps({
 <style scoped>
 .mine-button {
   display: flex;
+  justify-content: stretch;
+  align-items: stretch;
 }
 </style>
