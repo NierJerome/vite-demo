@@ -1,4 +1,4 @@
-## 1.22.18 (2023-03-03)
+## [1.22.18](https://github.com/NierJerome/vite-demo/compare/768cfc6...v1.22.18) (2023-03-03)
 
 
 ### ⚡ Performance Improvements | 性能优化
